@@ -1,0 +1,51 @@
+product_id,product_name,category,subcategory,brand
+P001,Mechanical Keyboard,Accessories,Keyboards,ProLine
+P002,External SSD 1TB,Storage,Storage,UltraGear
+P003,Wireless Keyboard,Accessories,Keyboards,XTech
+P004,Mechanical Keyboard,Accessories,Keyboards,NextGen
+P005,Wi‑Fi Router,Networking,Networking,DigitalWorks
+P006,"27"" Monitor",Displays,Monitors,UltraGear
+P007,Desktop PC,Computers,Desktops,ComputeX
+P008,"Business Laptop 15""",Computers,Laptops,NeoSystems
+P009,"Gaming Laptop 16""",Computers,Laptops,ComputeX
+P010,"24"" Monitor",Displays,Monitors,NeoSystems
+P011,Mini PC,Computers,Desktops,NextGen
+P012,"Ultrabook 14""",Computers,Laptops,ProLine
+P013,"24"" Monitor",Displays,Monitors,TechCore
+P014,Noise‑Cancelling Headset,Accessories,Audio,UltraGear
+P015,Wireless Mouse,Accessories,Mice,ComputeX
+P016,External HDD 2TB,Storage,Storage,DigitalWorks
+P017,External SSD 1TB,Storage,Storage,NeoSystems
+P018,Wi‑Fi Router,Networking,Networking,ProLine
+P019,Mesh Wi‑Fi System,Networking,Networking,ComputeX
+P020,"Business Laptop 15""",Computers,Laptops,XTech
+P021,Wi‑Fi Router,Networking,Networking,DigitalWorks
+P022,Gaming Mouse,Accessories,Mice,DigitalWorks
+P023,Webcam HD,Accessories,Peripherals,ProLine
+P024,USB‑C Docking Station,Accessories,Docking Stations,NextGen
+P025,Gaming Mouse,Accessories,Mice,NextGen
+P026,"Gaming Laptop 16""",Computers,Laptops,ProLine
+P027,External SSD 1TB,Storage,Storage,ProLine
+P028,Mechanical Keyboard,Accessories,Keyboards,ProLine
+P029,Wireless Keyboard,Accessories,Keyboards,DigitalWorks
+P030,"Business Laptop 15""",Computers,Laptops,NeoSystems
+P031,Noise‑Cancelling Headset,Accessories,Audio,ProLine
+P032,Webcam HD,Accessories,Peripherals,ComputeX
+P033,Desktop PC,Computers,Desktops,NextGen
+P034,Mini PC,Computers,Desktops,NeoSystems
+P035,Wireless Mouse,Accessories,Mice,ProLine
+P036,Webcam HD,Accessories,Peripherals,NextGen
+P037,"24"" Monitor",Displays,Monitors,NextGen
+P038,Wireless Mouse,Accessories,Mice,NeoSystems
+P039,Desktop PC,Computers,Desktops,NeoSystems
+P040,External HDD 2TB,Storage,Storage,DigitalWorks
+P041,Wireless Keyboard,Accessories,Keyboards,NeoSystems
+P042,Wireless Keyboard,Accessories,Keyboards,XTech
+P043,External HDD 2TB,Storage,Storage,XTech
+P044,Webcam HD,Accessories,Peripherals,DigitalWorks
+P045,"34"" Ultrawide Monitor",Displays,Monitors,TechCore
+P046,External SSD 1TB,Storage,Storage,XTech
+P047,"Ultrabook 14""",Computers,Laptops,TechCore
+P048,Mechanical Keyboard,Accessories,Keyboards,TechCore
+P049,"Ultrabook 14""",Computers,Laptops,ProLine
+P050,Wireless Keyboard,Accessories,Keyboards,ComputeX

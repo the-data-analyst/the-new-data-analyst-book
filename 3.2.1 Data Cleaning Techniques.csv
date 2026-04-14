@@ -1,0 +1,101 @@
+Order_ID,Month,Product,Units Sold,Location,Revenue,Order_Date,Promotion
+ORD-5000,March,DeskTop,7,,110,2024-07-15,No
+ORD-5001,October,Laptop,14,,150,2024-02-10,No
+ORD-5002,November,Tablet,9,North, 85 ,01/05/AA24,Yes
+ORD-5003,June,DeskTop,15,west,90,01/05/2024,Yes
+ORD-5004,February,PhoNe, 8 ,North, 85 ,18-09-2024,Yes
+ORD-5005,August,PhoNe,14,East ,90,2024-04-22,Yes
+ORD-5006,January,Tablet,9,EAST,150,2024-10-11,Yes
+ORD-5007,January,PhoNe,5,west,120,2024-10-11,No
+ORD-5008,July,Tablet,7,East ,150,05/06/24,Yes
+ORD-5009,May, tablet,7,west, 85 ,2024-01-05,Yes
+ORD-5010,February,Laptop ,,west,70,2024-03-12,No
+ORD-5011,March, tablet,20,North,100,,Yes
+ORD-5012,April,Monitor,15,,70,2024-01-05,Yes
+ORD-5013,January,DeskTop, 8 , ,,2024-07-15,Yes
+ORD-5014,February,Phone,3,EAST,40,2024-01-05,No
+ORD-5015,June,Laptop ,20,,100, ,No
+ORD-5016,April,Laptop ,,North,, ,Yes
+ORD-5017,February,Laptop ,,,, ,No
+ORD-5018,June,Monitor,9,East ,100,2024-10-11,No
+ORD-5019,November,PhoNe,10,WesT,50,2024_08-20,No
+ORD-5020,May,Laptop ,7,East ,110, ,Yes
+ORD-5021,April,Phone,5,North,150,2024-08-20,No
+ORD-5022,June,Phone,12,west,40,2024-05-01,Yes
+ORD-5023,September,Tablet, 8 ,,90,2024-10-11,No
+ORD-5024,May, tablet,20,WesT,200,2024-05-01,Yes
+ORD-5025,December,PhoNe,,North,150,01/05/2024,Yes
+ORD-5026,April,Laptop ,9,,150,01/05/2024,Yes
+ORD-5027,August,PhoNe, 8 , ,50,2024-08-20,Yes
+ORD-5028,January,Phone,10,,90,2024-07-15,Yes
+ORD-5029,March,Phone,9,East ,100,2024-07-15,Yes
+ORD-5030,August,PhoNe,14,west,100,2024-08-20,No
+ORD-5031,August,DeskTop,5,North, 85 ,2024-07-15,No
+ORD-5032,August,Phone,,WesT,100,2024--03-12,No
+ORD-5033,October,Desktop,12,North,150,05/06/24,No
+ORD-5034,March,Laptop,3,west,120,2024-02-10,No
+ORD-5035,April,DeskTop,15,East ,,01/05/2024,No
+ORD-5036,December,monitor,9,WesT,110,2024-02-10,Yes
+ORD-5037,June,Tablet,3,WesT,150,2024-10-11,Yes
+ORD-5038,December,Phone, 8 ,,150,2024-06-30,Yes
+ORD-5039,March,Desktop,20,south,200,2024-07-15,No
+ORD-5040,December,DeskTop,5,south,,2024-01-05,Yes
+ORD-5041,December,Laptop ,3,North,100,2024-10-11,No
+ORD-5042,October,Laptop ,14,North,110,2024-05-01,Yes
+ORD-5043,September,PhoNe,14,EAST, 85 ,2024-03-12,Yes
+ORD-5044,May,Tablet, 8 , ,150,2024-10-11,No
+ORD-5045,May,Desktop,15,EAST,,2024/07/18,No
+ORD-5046,January,Tablet,7,East , 85 ,2024/07/18,Yes
+ORD-5047,October,Laptop ,5,south,90,2024-03-12,No
+ORD-5048,June,Laptop ,15,, 85 ,2024-02-10,Yes
+ORD-5049,November,Tablet,12,WesT,200,2024-04-22,No
+ORD-5050,October,DeskTop,20, ,100,2024-09-05,Yes
+ORD-5051,May,Monitor,20,EAST,40,2024-07-15,No
+ORD-5052,April,monitor,12,,110,2024-06-30,Yes
+ORD-5053,July,Laptop,15, ,200,2024-06-30,Yes
+ORD-5054,August, tablet,5,North,100,2024-04-22,No
+ORD-5055,October,Desktop,14,,100,2024-01-05,Yes
+ORD-5056,March,Tablet,5,North,120,2024-05-01,Yes
+ORD-5057,April,Desktop,7,WesT,90,2024-08-20,Yes
+ORD-5058,July,DeskTop,7,west,120,2024-02-10,No
+ORD-5059,May,Desktop,9,EAST,100,18-09-2024,No
+ORD-5060,April,Monitor,20,WesT,200, ,Yes
+ORD-5061,September,Monitor,,WesT,110,2024-03-12,No
+ORD-5062,November,PhoNe,20,East ,150,18-09-2024,No
+ORD-5063,January,Monitor,5,EAST,70,2024-03-12,No
+ORD-5064,April,Laptop ,15, ,100,2024-06-30,No
+ORD-5065,July,monitor, 8 ,WesT, 85 ,2024-06-30,No
+ORD-5066,March,Phone, 8 ,East ,200,2024-02-10,Yes
+ORD-5067,November,PhoNe,15,EAST,90,05/06/24,No
+ORD-5068,May,PhoNe,7,East ,,2024/07/18,Yes
+ORD-5069,January, tablet,9,,50,2024-10-11,Yes
+ORD-5070,November,Laptop,15,west, 85 ,01/05/2024,No
+ORD-5071,December,DeskTop, 8 ,west,40,2024-04-22,No
+ORD-5072,February,Laptop,,EAST,40,2024/07/18,Yes
+ORD-5073,August,PhoNe,14,,50,2024/07/18,Yes
+ORD-5074,November,Laptop,9,EAST,, ,No
+ORD-5075,December,PhoNe,5,,150,2024-06-30,No
+ORD-5076,December,Laptop ,20,East ,50,2024/07/18,No
+ORD-5077,November, tablet,9,East ,90,2024-01-05,Yes
+ORD-5078,July,Monitor, 8 ,EAST, 85 ,2024-04-22,Yes
+ORD-5079,January, tablet,12,west,,2024-04-22,Yes
+ORD-5080,April,PhoNe,7, ,120,2024-07-15,Yes
+ORD-5081,May,PhoNe,9,North,110,2024-01-05,Yes
+ORD-5082,June,DeskTop,10,North,70,01/05/2024,Yes
+ORD-5083,March,Laptop,10,EAST,90,2024-07-15,Yes
+ORD-5084,March,Phone,10,,100,2024-08-20,No
+ORD-5085,May,Tablet,9,,110,2024-07-15,No
+ORD-5086,November, tablet,20, ,90,2024-02-10,Yes
+ORD-5087,December,Phone,9,west,70,2024-09-05,No
+ORD-5088,February,Laptop ,20,,200,18-09-2024,No
+ORD-5089,March,Phone,9,East ,200,18-09-2024,No
+ORD-5090,June,Laptop ,15,East ,70,2024-04-22,No
+ORD-5091,October,Laptop ,9,WesT,150,2024/07/18,No
+ORD-5092,December,PhoNe,3,west,50,2024-08-20,No
+ORD-5093,February,PhoNe,3,EAST,150, ,Yes
+ORD-5094,April,Monitor,5,North,50,01/05/2024,No
+ORD-5095,May,Desktop,9,North,120,2024-09-05,No
+ORD-5096,December,monitor,3,south,150,2024-04-22,Yes
+ORD-5097,May,Desktop,20,west,70,2024-03-12,No
+ORD-5098,June,monitor,3,North, 85 ,2024-10-11,No
+ORD-5099,October,Desktop,15,,50,2024-10-11,No

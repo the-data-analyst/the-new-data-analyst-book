@@ -1,0 +1,102 @@
+﻿Order_ID,Product,Units Sold,Location,Revenue,Order_Date,Promotion,Month Name
+ORD-5000,Desktop,7,Other Location,110,45488,No,Julho
+ORD-5001,Laptop,14,Other Location,150,45332,No,Fevereiro
+ORD-5002,Tablet,9,North,85,45413,Yes,Maio
+ORD-5003,Desktop,15,West,90,45413,Yes,Maio
+ORD-5004,Phone,8,North,85,45553,Yes,Setembro
+ORD-5005,Phone,14,East,90,45404,Yes,Abril
+ORD-5006,Tablet,9,East,150,45576,Yes,Outubro
+ORD-5007,Phone,5,West,120,45576,No,Outubro
+ORD-5008,Tablet,7,East,150,45448,Yes,Junho
+ORD-5009,Tablet,7,West,85,45296,Yes,Janeiro
+ORD-5010,Laptop,0,West,70,45363,No,Março
+ORD-5011,Tablet,20,North,100,45292,Yes,Janeiro
+ORD-5012,Monitor,15,Other Location,70,45296,Yes,Janeiro
+ORD-5013,Desktop,8,Other Location,0,45488,Yes,Julho
+ORD-5014,Phone,3,East,40,45296,No,Janeiro
+ORD-5015,Laptop,20,Other Location,100,45292,No,Janeiro
+ORD-5016,Laptop,0,North,0,45292,Yes,Janeiro
+ORD-5017,Laptop,0,Other Location,0,45292,No,Janeiro
+ORD-5018,Monitor,9,East,100,45576,No,Outubro
+ORD-5019,Phone,10,West,50,45524,No,Agosto
+ORD-5020,Laptop,7,East,110,45292,Yes,Janeiro
+ORD-5021,Phone,5,North,150,45524,No,Agosto
+ORD-5022,Phone,12,West,40,45413,Yes,Maio
+ORD-5023,Tablet,8,Other Location,90,45576,No,Outubro
+ORD-5024,Tablet,20,West,200,45413,Yes,Maio
+ORD-5025,Phone,0,North,150,45413,Yes,Maio
+ORD-5026,Laptop,9,Other Location,150,45413,Yes,Maio
+ORD-5027,Phone,8,Other Location,50,45524,Yes,Agosto
+ORD-5028,Phone,10,Other Location,90,45488,Yes,Julho
+ORD-5029,Phone,9,East,100,45488,Yes,Julho
+ORD-5030,Phone,14,West,100,45524,No,Agosto
+ORD-5031,Desktop,5,North,85,45488,No,Julho
+ORD-5032,Phone,0,West,100,45363,No,Março
+ORD-5033,Desktop,12,North,150,45448,No,Junho
+ORD-5034,Laptop,3,West,120,45332,No,Fevereiro
+ORD-5035,Desktop,15,East,0,45413,No,Maio
+ORD-5036,Monitor,9,West,110,45332,Yes,Fevereiro
+ORD-5037,Tablet,3,West,150,45576,Yes,Outubro
+ORD-5038,Phone,8,Other Location,150,45473,Yes,Junho
+ORD-5039,Desktop,20,South,200,45488,No,Julho
+ORD-5040,Desktop,5,South,0,45296,Yes,Janeiro
+ORD-5041,Laptop,3,North,100,45576,No,Outubro
+ORD-5042,Laptop,14,North,110,45413,Yes,Maio
+ORD-5043,Phone,14,East,85,45363,Yes,Março
+ORD-5044,Tablet,8,Other Location,150,45576,No,Outubro
+ORD-5045,Desktop,15,East,0,45491,No,Julho
+ORD-5046,Tablet,7,East,85,45491,Yes,Julho
+ORD-5047,Laptop,5,South,90,45363,No,Março
+ORD-5048,Laptop,15,Other Location,85,45332,Yes,Fevereiro
+ORD-5049,Tablet,12,West,200,45404,No,Abril
+ORD-5050,Desktop,20,Other Location,100,45540,Yes,Setembro
+ORD-5051,Monitor,20,East,40,45488,No,Julho
+ORD-5052,Monitor,12,Other Location,110,45473,Yes,Junho
+ORD-5053,Laptop,15,Other Location,200,45473,Yes,Junho
+ORD-5054,Tablet,5,North,100,45404,No,Abril
+ORD-5055,Desktop,14,Other Location,100,45296,Yes,Janeiro
+ORD-5056,Tablet,5,North,120,45413,Yes,Maio
+ORD-5057,Desktop,7,West,90,45524,Yes,Agosto
+ORD-5058,Desktop,7,West,120,45332,No,Fevereiro
+ORD-5059,Desktop,9,East,100,45553,No,Setembro
+ORD-5060,Monitor,20,West,200,45292,Yes,Janeiro
+ORD-5061,Monitor,0,West,110,45363,No,Março
+ORD-5062,Phone,20,East,150,45553,No,Setembro
+ORD-5063,Monitor,5,East,70,45363,No,Março
+ORD-5064,Laptop,15,Other Location,100,45473,No,Junho
+ORD-5065,Monitor,8,West,85,45473,No,Junho
+ORD-5066,Phone,8,East,200,45332,Yes,Fevereiro
+ORD-5067,Phone,15,East,90,45448,No,Junho
+ORD-5068,Phone,7,East,0,45491,Yes,Julho
+ORD-5069,Tablet,9,Other Location,50,45576,Yes,Outubro
+ORD-5070,Laptop,15,West,85,45413,No,Maio
+ORD-5071,Desktop,8,West,40,45404,No,Abril
+ORD-5072,Laptop,0,East,40,45491,Yes,Julho
+ORD-5073,Phone,14,Other Location,50,45491,Yes,Julho
+ORD-5074,Laptop,9,East,0,45292,No,Janeiro
+ORD-5075,Phone,5,Other Location,150,45473,No,Junho
+ORD-5076,Laptop,20,East,50,45491,No,Julho
+ORD-5077,Tablet,9,East,90,45296,Yes,Janeiro
+ORD-5078,Monitor,8,East,85,45404,Yes,Abril
+ORD-5079,Tablet,12,West,0,45404,Yes,Abril
+ORD-5080,Phone,7,Other Location,120,45488,Yes,Julho
+ORD-5081,Phone,9,North,110,45296,Yes,Janeiro
+ORD-5082,Desktop,10,North,70,45413,Yes,Maio
+ORD-5083,Laptop,10,East,90,45488,Yes,Julho
+ORD-5084,Phone,10,Other Location,100,45524,No,Agosto
+ORD-5085,Tablet,9,Other Location,110,45488,No,Julho
+ORD-5086,Tablet,20,Other Location,90,45332,Yes,Fevereiro
+ORD-5087,Phone,9,West,70,45540,No,Setembro
+ORD-5088,Laptop,20,Other Location,200,45553,No,Setembro
+ORD-5089,Phone,9,East,200,45553,No,Setembro
+ORD-5090,Laptop,15,East,70,45404,No,Abril
+ORD-5091,Laptop,9,West,150,45491,No,Julho
+ORD-5092,Phone,3,West,50,45524,No,Agosto
+ORD-5093,Phone,3,East,150,45292,Yes,Janeiro
+ORD-5094,Monitor,5,North,50,45413,No,Maio
+ORD-5095,Desktop,9,North,120,45540,No,Setembro
+ORD-5096,Monitor,3,South,150,45404,Yes,Abril
+ORD-5097,Desktop,20,West,70,45363,No,Março
+ORD-5098,Monitor,3,North,85,45576,No,Outubro
+ORD-5099,Desktop,15,Other Location,50,45576,No,Outubro
+ORD-6000,Desktop,22,North,90,28824,Yes,Novembro
